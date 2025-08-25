@@ -111,6 +111,19 @@
     - Value per pip (depends on lot size and currency pair).
   - Risk: High leverage can quickly magnify losses as well as gains.
   - Lot size + leverage + pip movement = determines overall P/L.
+* What is a Spread in Forex Trading?
+  - Spread Types:
+    - Fixed spread → Doesn’t change regardless of market conditions (usually from market maker brokers).
+    - Variable (floating) spread → Changes based on market liquidity and volatility (common in ECN/STP brokers).
+  - Major vs. Exotic Pairs:
+    - Major pairs (EUR/USD, GBP/USD, USD/JPY, etc.) → very tight spreads due to high liquidity.
+    - Exotic pairs (USD/TRY, USD/ZAR, etc.) → much wider spreads because of low liquidity and higher risk.
+  - News & Events: Spreads can widen sharply during big economic announcements (like NFP, CPI, interest rate decisions).
+  - Day Trading & Scalping: Traders who open many trades per day are more sensitive to spreads since it’s a frequent cost.
+  - Carry Trades: Spreads matter less compared to overnight swap/interest, but still add to entry/exit costs.
+  - Broker Transparency: Reputable brokers clearly show bid-ask prices and how spreads are applied.
+  - Spreads = hidden cost of trading and directly impact profitability, especially for short-term traders.
+
 
 
 
