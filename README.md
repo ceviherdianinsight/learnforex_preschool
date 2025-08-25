@@ -95,6 +95,7 @@
   - Common pitfall: Confusing pips with pipettes (e.g., 135 pipettes = 13.5 pips, not 135 pips).
   - Pips = the universal forex measuring stick.
   - Pipettes = decimal refinement for more precise trading.
+* What is a Lot in Forex?
 
 
 
