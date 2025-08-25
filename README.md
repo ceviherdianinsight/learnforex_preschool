@@ -57,5 +57,18 @@
 ### 2. How Do You Trade Forex?
 
 * How to Make Money Trading Forex
+  - Forex trading = speculating on currency pairs (buy one, sell another).
+  - Profit comes from correctly predicting exchange rate movements.
+  - Always traded in pairs (e.g., EUR/USD).
+  - You can go long (buy) or go short (sell).
+  - Quotes include Bid, Ask, and Spread (broker’s profit).
+  - Retail traders don’t trade physical money, but speculative contracts.
+  - Most traders lose money (about 90%).
+  - Success requires:
+     - Education & knowledge of market.
+     - A clear trading plan.
+     - Strong risk management (risk small % per trade).
+     - Realistic expectations (no “get rich quick”).
+* djdjdjd
 
 
