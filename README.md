@@ -70,6 +70,15 @@
      - Strong risk management (risk small % per trade).
      - Realistic expectations (no “get rich quick”).
 * Know When to Buy or Sell a Currency Pair
+  - Buy/Sell Decision → Based on economic conditions of the two currencies in a pair (fundamental analysis).
+  - Currency Pairs → Always traded in pairs (EUR/USD, GBP/USD, USD/JPY, USD/CHF).
+  - Trade in Lots:
+       - Micro lot = 1,000 units
+       - Mini lot = 10,000 units
+       - Standard lot = 100,000 units
+  - Margin & Leverage → Small deposit controls large position; leverage magnifies both profit and loss.
+  - Rollover (Swap) Fee → Charged/earned if a position is held overnight; depends on interest rate differences between currencies.
+  - Avoid Rollover → Close trades before broker cutoff (around 5 p.m. EST).
 
 
 
