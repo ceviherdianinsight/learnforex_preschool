@@ -123,7 +123,7 @@
   - Carry Trades: Spreads matter less compared to overnight swap/interest, but still add to entry/exit costs.
   - Broker Transparency: Reputable brokers clearly show bid-ask prices and how spreads are applied.
   - Spreads = hidden cost of trading and directly impact profitability, especially for short-term traders.
-
+* The Bid and Ask Price Explained
 
 
 
