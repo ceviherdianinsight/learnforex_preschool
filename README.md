@@ -85,16 +85,16 @@
   - Non-JPY pairs: Pip = 0.0001 (4th decimal place).
   - JPY pairs: Pip = 0.01 (2nd decimal place).
   - Pipette definition: 1/10 of a pip (fractional pip), shown in the 5th decimal (or 3rd for JPY).
-* EUR/USD from 1.1050 → 1.1051 = 1 pip.
-* GBP/USD from 1.30542 → 1.30543 = 1 pipette.
-* 10 pipettes = 1 pip.
-* To provide more accurate quotes.
-* To offer tighter spreads (e.g., 1.6 pips instead of rounding to 2 pips).
-* More precise measurement of gains/losses.
-* Useful for short-term traders (scalpers).
-* Common pitfall: Confusing pips with pipettes (e.g., 135 pipettes = 13.5 pips, not 135 pips).
-* Pips = the universal forex measuring stick.
-* Pipettes = decimal refinement for more precise trading.
+  - EUR/USD from 1.1050 → 1.1051 = 1 pip.
+  - GBP/USD from 1.30542 → 1.30543 = 1 pipette.
+  - 10 pipettes = 1 pip.
+  - To provide more accurate quotes.
+  - To offer tighter spreads (e.g., 1.6 pips instead of rounding to 2 pips).
+  - More precise measurement of gains/losses.
+  - Useful for short-term traders (scalpers).
+  - Common pitfall: Confusing pips with pipettes (e.g., 135 pipettes = 13.5 pips, not 135 pips).
+  - Pips = the universal forex measuring stick.
+  - Pipettes = decimal refinement for more precise trading.
 
 
 
