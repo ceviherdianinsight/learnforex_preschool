@@ -96,6 +96,21 @@
   - Pips = the universal forex measuring stick.
   - Pipettes = decimal refinement for more precise trading.
 * What is a Lot in Forex?
+  - Lot = standardized trading size in forex.
+    - 1 Standard Lot = 100,000 units of base currency.
+    - Mini Lot = 10,000 units.
+    - Micro Lot = 1,000 units.
+    - Nano Lot = 100 units (rare).
+  - Leverage = allows traders to control a large position with a smaller amount of capital.
+    - Example: 50:1 leverage → controlling $50,000 with $1,000.
+    - Increases both potential profits and risks.
+  - Margin = the amount of money a trader needs to open/maintain a leveraged position.
+  - Profit and Loss (P/L) depends on:
+    - Position size (lots).
+    - Number of pips gained/lost.
+    - Value per pip (depends on lot size and currency pair).
+  - Risk: High leverage can quickly magnify losses as well as gains.
+  - Lot size + leverage + pip movement = determines overall P/L.
 
 
 
