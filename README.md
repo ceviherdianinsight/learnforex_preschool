@@ -69,6 +69,7 @@
      - A clear trading plan.
      - Strong risk management (risk small % per trade).
      - Realistic expectations (no “get rich quick”).
-* djdjdjd
+* Know When to Buy or Sell a Currency Pair
+
 
 
