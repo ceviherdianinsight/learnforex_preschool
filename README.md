@@ -5,7 +5,7 @@
 ### 1. What is Forex?
 
 * What is Forex
-* <span style="color:blue">* What is Forex</span>
+* <span style="color:blue"> What is Forex</span>
 
   - Forex = foreign exchange, the global market for trading currencies.
   - Largest financial market (~$7.5 trillion daily volume).
