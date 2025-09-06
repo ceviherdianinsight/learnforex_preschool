@@ -23,6 +23,7 @@
   - Exchange rates show how strong or weak one economy is relative to another.
   - Profit comes from changes in these exchange rates (buy low, sell high).
   - 8 Major: USD, EUR, JPY, GBP, CHF, CAD, AUD, NZD
+  - AUD, NZD, and CAD as “commodity currencies“.
     
 * Buying And Selling Currency Pairs
   - Forex trading = buy one currency, sell another (always in pairs).
