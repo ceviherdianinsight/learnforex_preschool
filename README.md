@@ -30,7 +30,6 @@
   - Trades are made through brokers/CFD providers.
   - Currency pairs behave like a tug of war – price reflects relative strength.
   - 3 types of pairs: Majors: include USD, Crosses (Minors): exclude USD, Exotics: one major + emerging market currency.
-  - There are 8 major currencies but only 7 major pairs.
   - Major pairs = most liquid and heavily traded.
     
 * Forex Market Size And Liquidity
