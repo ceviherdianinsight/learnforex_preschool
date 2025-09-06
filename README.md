@@ -32,7 +32,7 @@
   - 3 types of pairs: Majors: include USD, Crosses (Minors): exclude USD, Exotics: one major + emerging market currency.
   - Major pairs = most liquid and heavily traded.
     
-* Forex Market Size And Liquidity
+* Forex Market Size And Liquidity-X
   - The forex market is bigger than all stock, bond, and commodity markets combined.
   - Daily forex turnover = trillions of USD, making it the most actively traded market.
   - High liquidity means tight spreads (lower transaction costs for traders).
