@@ -43,7 +43,7 @@
   - For short-term traders (scalpers/day traders), liquidity is crucial to avoid slippage.
   - The size and depth of the forex market make price manipulation by a single player very difficult (unlike some smaller markets).
 
-* How To Trade Forex
+* How To Trade Forex-X
   - Forex can be traded in several forms, not just spot trading.
   - Main ways to trade forex:
       - Spot FX (OTC) – direct buying/selling of currencies in real time.
