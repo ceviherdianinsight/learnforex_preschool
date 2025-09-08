@@ -137,15 +137,15 @@
       - Spread = 1.2 pips
       - 
 * Impress Your Date with Forex Lingo
-- Major currencies = most traded and liquid; includes USD, EUR, JPY, GBP, CHF, CAD, AUD, NZD.
-- Minor currencies = mid-tier economies (still traded but less liquid than majors).
-- Exotic currencies = currencies from emerging or smaller economies; high volatility, wide spreads, higher risk
-- Base currency = the first currency in a pair (e.g. USD in USD/CHF = how much CHF equals 1 USD).
-- Quote currency = the second currency in the pair; used to express profit/loss.
-- Pip = smallest standard change in a forex price (typically 0.0001, or 0.01 for JPY pairs).
-- Pipette = fractional pip; one-tenth of a pip, used when quotes include a fifth decimal (e.g. 1.23456 where "6" is pipettes).
-- Bid price = price at which broker will buy the base currency from you (you sell at this).
-- Ask (Offer) price = price at which broker will sell the base currency to you (you buy at this).
-- Spread = Ask − Bid; this difference is your trade transaction cost. E.g. USD/JPY 118.30/118.34 = 4 pips spread.
-- Cross currency pair = pair that does not include USD, such as EUR/GBP or EUR/JPY; often costlier to trade due to lower liquidity.
+  - Major currencies = most traded and liquid; includes USD, EUR, JPY, GBP, CHF, CAD, AUD, NZD.
+  - Minor currencies = mid-tier economies (still traded but less liquid than majors).
+  - Exotic currencies = currencies from emerging or smaller economies; high volatility, wide spreads, higher risk
+  - Base currency = the first currency in a pair (e.g. USD in USD/CHF = how much CHF equals 1 USD).
+  - Quote currency = the second currency in the pair; used to express profit/loss.
+  - Pip = smallest standard change in a forex price (typically 0.0001, or 0.01 for JPY pairs).
+  - Pipette = fractional pip; one-tenth of a pip, used when quotes include a fifth decimal (e.g. 1.23456 where "6" is pipettes).
+  - Bid price = price at which broker will buy the base currency from you (you sell at this).
+  - Ask (Offer) price = price at which broker will sell the base currency to you (you buy at this).
+  - Spread = Ask − Bid; this difference is your trade transaction cost. E.g. USD/JPY 118.30/118.34 = 4 pips spread.
+  - Cross currency pair = pair that does not include USD, such as EUR/GBP or EUR/JPY; often costlier to trade due to lower liquidity.
 
