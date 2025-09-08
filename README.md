@@ -162,5 +162,6 @@
   - Pending orders help automate entries/exits when you're away or focused elsewhere.
   - Advanced options (OCO, OTO) streamline combined take-profit and stop-loss planning—but depend on broker support.
 
+
  * Trading Order Types Cheat Sheet
-  - Market Order → Instant execution at current market price; fast but no price control (slippage risk).
+    - Market Order → Instant execution at current market price; fast but no price control (slippage risk).
