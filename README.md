@@ -198,3 +198,6 @@
     - Practice First: Use demo accounts until your strategy is solid.
     - Emotion Control: Losses are normal self-discipline is essential.
     - Expectations: Set realistic goals to avoid frustration and burnout.
+   
+  ### 3. When Can You Trade Forex?
+
