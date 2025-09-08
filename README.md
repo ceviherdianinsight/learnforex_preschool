@@ -184,7 +184,7 @@
     - Start live with small positions to manage psychology.
    
   * Can You Get Rich By Trading Forex?
-    - Forex is a skill-based pursuit, not a shortcut to wealth. Even seasoned traders experience losses—success requires years of practice and learning.
+    - Forex is a skill-based pursuit, not a shortcut to wealth. Even seasoned traders experience losses success requires years of practice and learning.
     - No one becomes rich overnight in forex. It's not a get-rich-quick scheme—there are no shortcuts to sustainable success.
     - Risk and realism are key. Aim for consistent profitability, proper risk management, and realistic goals rather than chasing massive returns.
     - Demo trading is crucial. Build skills on a practice account first to find a trading method that works for you before trading live.
@@ -193,7 +193,7 @@
     - Manage expectations. Unrealistic return goals lead to disappointment—trading success is gradual and strategic.
     - Skill vs Luck: Forex success demands skill, not luck.
     - Long-Term Perspective: Wealth in forex is built over time, not instantly.
-    - Capital Requirement: Start with sufficient funds—$5K–$10K is often recommended.
+    - Capital Requirement: Start with sufficient funds $5K–$10K is often recommended.
     - Risk Management: Focus on consistent gains, not risking everything.
     - Practice First: Use demo accounts until your strategy is solid.
     - Emotion Control: Losses are normal self-discipline is essential.
