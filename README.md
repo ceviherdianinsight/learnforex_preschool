@@ -182,3 +182,12 @@
     - Trade demo for at least one month before live.
     - Demo cannot replicate real emotions in trading.
     - Start live with small positions to manage psychology.
+   
+  * Can You Get Rich By Trading Forex?
+    - Forex is a skill-based pursuit, not a shortcut to wealth. Even seasoned traders experience losses—success requires years of practice and learning.
+    - No one becomes rich overnight in forex. It's not a get-rich-quick scheme—there are no shortcuts to sustainable success.
+    - Risk and realism are key. Aim for consistent profitability, proper risk management, and realistic goals rather than chasing massive returns.
+    - Demo trading is crucial. Build skills on a practice account first to find a trading method that works for you before trading live.
+    - Expect losses—even professionals lose sometimes. Preparedness and emotional discipline are essential.
+    - Adequate capital matters. Many traders suggest starting with enough capital (e.g. several thousand dollars) to allow growth without excessive risk.
+    - Manage expectations. Unrealistic return goals lead to disappointment—trading success is gradual and strategic.
