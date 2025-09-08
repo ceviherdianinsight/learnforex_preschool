@@ -149,3 +149,15 @@
   - Spread = Ask − Bid; this difference is your trade transaction cost. E.g. USD/JPY 118.30/118.34 = 4 pips spread.
   - Cross currency pair = pair that does not include USD, such as EUR/GBP or EUR/JPY; often costlier to trade due to lower liquidity.
 
+* Types of Forex Orders
+  - Market Order: Executes immediately at the best current price, fastest execution but no price control.
+  - Buy Limit / Sell Limit: Pending orders set to open long (buy) below the market or short (sell) above it, used when anticipating price retracement.
+  - Buy Stop / Sell Stop: Pending orders to open a trade when price moves beyond the current level (buy above, sell below), used for breakout strategies.
+  - Stop-Loss Order: Limits potential losses by exiting a position when price hits your defined threshold; becomes a market order when triggered.
+  - Stop-Limit Order: Triggered at a stop price, but only executes at or better than your specified limit price, combines control and activation.
+  - Trailing Stop Order: A dynamic stop-loss that moves with favorable price movement, locking in profits while limiting downside.
+  - Good-Till-Cancelled (GTC): Your order remains active indefinitely (or until filled/canceled), unlike day orders that expire at end of session.
+  - One-Cancels-Other (OCO) / One-Triggers-Other (OTO): Linked orders—triggering one automatically cancels the other, or one triggers secondary orders, used for combined entry/exit setups.
+  - Order selection impacts trade control, cost, and risk management. Choose wisely based on strategy and execution needs.
+  - Pending orders help automate entries/exits when you're away or focused elsewhere.
+  - Advanced options (OCO, OTO) streamline combined take-profit and stop-loss planning—but depend on broker support.
