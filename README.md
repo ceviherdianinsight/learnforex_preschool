@@ -124,7 +124,16 @@
   - Broker Transparency: Reputable brokers clearly show bid-ask prices and how spreads are applied.
   - Spreads = hidden cost of trading and directly impact profitability, especially for short-term traders.
 * The Bid and Ask Price Explained
-
-
+  - Bid Price = price broker will buy base currency from you → you sell at this price.
+  - Ask Price (Offer) = price broker will sell base currency to you → you buy at this price.
+  - Displayed in platforms: “Sell” button = Bid, “Buy” button = Ask.
+  - Spread = Ask − Bid → your transaction cost and broker’s profit.
+  - Liquidity impact:
+      - Major pairs → tight spreads.
+      - Exotic pairs or volatile markets → wider spreads.
+  - Example: EUR/USD 1.10252 / 1.10264
+      - Bid = 1.10252 (Sell)
+      - Ask = 1.10264 (Buy)
+      - Spread = 1.2 pips.
 
 
