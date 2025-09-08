@@ -135,7 +135,7 @@
       - Bid = 1.10252 (Sell)
       - Ask = 1.10264 (Buy)
       - Spread = 1.2 pips
-      - 
+      
 * Impress Your Date with Forex Lingo
   - Major currencies = most traded and liquid; includes USD, EUR, JPY, GBP, CHF, CAD, AUD, NZD.
   - Minor currencies = mid-tier economies (still traded but less liquid than majors).
@@ -165,3 +165,12 @@
 
  * Trading Order Types Cheat Sheet
     - Market Order → Instant execution at current market price; fast but no price control (slippage risk).
+    - Limit Order → Buy below market / Sell above market; precise price control, but may not get filled.
+    - Stop Order (Buy Stop / Sell Stop) → Activated when price passes a set level; used for breakout strategies.
+    - Stop-Limit Order → Combines stop + limit; better price control but may not execute.
+    - Stop-Loss Order → Protects against losses by exiting at a predefined level.
+    - Trailing Stop → Dynamic stop-loss that moves with price to lock in profits.
+    - Good-Till-Cancelled (GTC) → Order remains active until executed or manually canceled.
+    - Day Order → Valid only for one trading day; cancels if not filled.
+    - One-Cancels-Other (OCO) → Two linked orders; filling one cancels the other.
+    - One-Triggers-Other (OTO) → Main order activates → triggers additional linked orders (e.g., entry triggers SL + TP).
