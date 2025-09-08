@@ -191,3 +191,10 @@
     - Expect losses—even professionals lose sometimes. Preparedness and emotional discipline are essential.
     - Adequate capital matters. Many traders suggest starting with enough capital (e.g. several thousand dollars) to allow growth without excessive risk.
     - Manage expectations. Unrealistic return goals lead to disappointment—trading success is gradual and strategic.
+    - Skill vs Luck: Forex success demands skill, not luck.
+    - Long-Term Perspective: Wealth in forex is built over time, not instantly.
+    - Capital Requirement: Start with sufficient funds—$5K–$10K is often recommended.
+    - Risk Management: Focus on consistent gains, not risking everything.
+    - Practice First: Use demo accounts until your strategy is solid.
+    - Emotion Control: Losses are normal—self-discipline is essential.
+    - Expectations: Set realistic goals to avoid frustration and burnout.
