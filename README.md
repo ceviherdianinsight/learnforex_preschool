@@ -174,3 +174,11 @@
     - Day Order → Valid only for one trading day; cancels if not filled.
     - One-Cancels-Other (OCO) → Two linked orders; filling one cancels the other.
     - One-Triggers-Other (OTO) → Main order activates → triggers additional linked orders (e.g., entry triggers SL + TP).
+  
+  * Demo Trade Your Way to Success
+    - Demo trading = practice without risking real money.
+    - Only go live after proving consistent profitability.
+    - Focus on one major currency pair in demo phase.
+    - Trade demo for at least one month before live.
+    - Demo cannot replicate real emotions in trading.
+    - Start live with small positions to manage psychology.
