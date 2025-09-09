@@ -259,7 +259,27 @@
     - Driving Factors:
        - U.S. economic data releases (NFP, Fed announcements, GDP, inflation).
        - Overlap with Europe provides strong volatility.
- 
-      
+
+ * Best Times of Day to Trade Forex
+    - Definition: Overlap happens when two trading sessions are open at the same time, creating more trading activity.
+    - Tokyo–London Overlap:
+      - Time: 3:00–4:00 AM ET (about 1 hour).
+      - Features: Moderate liquidity, active JPY & EUR pairs.
+    - London–New York Overlap:
+      - Time: 8:00 AM–12:00 PM ET (about 4 hours).
+      - Features: Most liquid and volatile period of the day, tight spreads, strong trends.
+      - Best pairs: EUR/USD, GBP/USD, USD/CHF, USD/CAD, USD/JPY.
+    - Why Important:
+       - Higher liquidity → tighter spreads & faster executions.
+       - More volatility → strong opportunities but also higher risk.
+       - Overlaps often coincide with major news releases.
+    - Trading Strategies:
+        - Scalping during high liquidity.
+        - Breakouts & trend trades as sessions switch.
+        - News trading around economic announcements.
+    - Risks:
+        - High volatility = potential large losses.
+        - Overtrading temptation.
+        - Need strict risk management.
 
 
