@@ -281,5 +281,21 @@
         - High volatility = potential large losses.
         - Overtrading temptation.
         - Need strict risk management.
+      
+    - Best Days of the Week to Trade Forex
+        - Best Trading Days:
+            - Wednesday and Thursday → highest volatility and widest pip ranges.
+            - Tuesday also active, better than Monday/Friday.
+        - Worst Trading Days:
+            - Monday → slow, narrow ranges (market still warming up).
+            - Friday afternoon → low liquidity as traders close positions before weekend.
+        - Friday Behavior:
+            - Active in the morning (until ~12 PM EST).
+            - Activity drops sharply in the afternoon.
+        - Volatility Pattern: Market activity generally builds from Monday → peaks midweek → declines Friday.
+        - Practical Takeaway:
+            - Focus on Tuesday–Thursday for most opportunities.
+            - Trade Friday morning only, avoid Friday afternoon.
+            - Skip Monday if you want strong price action.
 
 
