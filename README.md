@@ -298,4 +298,7 @@
       - Trade Friday morning only, avoid Friday afternoon.
       - Skip Monday if you want strong price action.
 
+### 4. Who Trades Forex?
 
+
+### 5. Why Trade Forex?
