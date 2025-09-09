@@ -201,3 +201,16 @@
    
   ### 3. When Can You Trade Forex?
 
+  * Forex Trading Sessions
+    - Forex runs 24/5 – divided into 4 major sessions: Sydney, Tokyo, London, New York.
+    - Liquidity & volatility vary by session; best during overlaps.
+    - London session = most active (~43% of global FX turnover).
+    - Tokyo session = quieter, focused on JPY, AUD, NZD pairs.
+    - New York session = highly influenced by USD news & data releases; overlaps London for peak activity.
+    - Sydney session = smallest activity, mostly sets the tone for Asia.
+    - London–New York overlap (08:00–12:00 EST) = highest volatility & trading volume (~70% of daily).
+    - Best times to trade = session overlaps (London–Tokyo, London–New York).
+    - Worst times to trade = late Fridays, holidays, and single-session low liquidity periods.
+    - Session timing shifts slightly due to daylight saving time.
+
+
