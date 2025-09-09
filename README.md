@@ -199,7 +199,7 @@
     - Emotion Control: Losses are normal self-discipline is essential.
     - Expectations: Set realistic goals to avoid frustration and burnout.
    
-  ### 3. When Can You Trade Forex?
+### 3. When Can You Trade Forex?
 
   * Forex Trading Sessions
     - Forex runs 24/5 – divided into 4 major sessions: Sydney, Tokyo, London, New York.
