@@ -213,4 +213,19 @@
     - Worst times to trade = late Fridays, holidays, and single-session low liquidity periods.
     - Session timing shifts slightly due to daylight saving time.
 
+  * When Can You Trade Forex: Tokyo Session
+    - Trading Hours: 00:00–09:00 GMT (~9 AM–6 PM Tokyo time).
+    - Global Share: ~20% of total forex volume.
+    - Major Hubs: Tokyo, Singapore, Hong Kong.
+    - Active Pairs: JPY crosses, AUD/USD, NZD/USD, EUR/JPY.
+    - Market Nature: Lower liquidity & volatility than London/New York.
+    - Typical Behavior: Consolidation or early breakout setups.
+    - Pip Ranges: Example averages – EUR/USD ~7, USD/JPY ~16, GBP/JPY ~20 per hour.
+    - Overlap: Tokyo–London overlap (~1 hour, around 03:00–04:00 AM ET) → slight boost in activity.
+
+  * When Can You Trade Forex: London Session
+  - Trading Hours: 08:00–17:00 GMT (~8 AM–5 PM London time).
+  - Volume Share: ~43% of daily forex turnover → the largest session.
+      
+
 
