@@ -224,8 +224,20 @@
     - Overlap: Tokyo–London overlap (~1 hour, around 03:00–04:00 AM ET) → slight boost in activity.
 
   * When Can You Trade Forex: London Session
-  - Trading Hours: 08:00–17:00 GMT (~8 AM–5 PM London time).
-  - Volume Share: ~43% of daily forex turnover → the largest session.
+    - Trading Hours: 08:00–17:00 GMT (~8 AM–5 PM London time).
+    - Volume Share: ~43% of daily forex turnover → the largest session.
+    - Market Overlaps:
+        - Morning: overlap with Tokyo.
+        - Afternoon: overlap with New York (most liquid time).
+    - Liquidity & Volatility:
+        - Highest of all sessions → tight spreads, fast execution.
+        - Most daily trends start during London.
+        - Midday slowdown (lunch), possible reversals near close.
+    - Average Pip Ranges: EUR/USD ~10, GBP/USD ~13, USD/JPY ~19, EUR/JPY ~22, GBP/JPY ~22, etc.
+    - Best Pairs to Trade: EUR/USD, GBP/USD, USD/JPY, USD/CHF, plus volatile crosses (EUR/JPY, GBP/JPY).
+    - Trading Style Fit:
+        - Great for traders who like high volatility, trends, and news-driven moves.
+        - May be risky for those preferring calmer markets.
       
 
 
