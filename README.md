@@ -302,3 +302,5 @@
 
 
 ### 5. Why Trade Forex?
+
+### 6. Margin Trading 101: Understand How Your Margin Account Works
