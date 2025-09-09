@@ -238,6 +238,28 @@
     - Trading Style Fit:
         - Great for traders who like high volatility, trends, and news-driven moves.
         - May be risky for those preferring calmer markets.
+     
+* When Can You Trade Forex: New York Session
+    - Runs from 8:00 AM – 5:00 PM (New York time) → 13:00–22:00 GMT.
+    - Accounts for about 17% of daily forex turnover.
+    - Most active when it overlaps with the London session (8 AM – 12 PM EST).
+    - Liquidity drops after 4 PM EST (U.S. stock market close).
+    - High in the morning, quieter in the afternoon.
+    - Friday afternoons often see low volume and trend reversals as traders close positions before the weekend.
+    - Typical Pip Movement (per hour average):
+       - EUR/USD: ~16 pips
+       - GBP/USD: ~20 pips
+       - USD/JPY: ~23 pips
+       - GBP/JPY: ~31 pips
+       - AUD/USD: ~13 pips
+       - USD/CAD: ~17 pips
+    - Best Pairs to Trade:
+       - USD-based majors (EUR/USD, GBP/USD, USD/JPY, USD/CAD, USD/CHF).
+       - Active crosses like EUR/JPY, GBP/JPY.
+    - Driving Factors:
+       - U.S. economic data releases (NFP, Fed announcements, GDP, inflation).
+       - Overlap with Europe provides strong volatility.
+ 
       
 
 
