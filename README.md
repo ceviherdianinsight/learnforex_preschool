@@ -299,6 +299,10 @@
       - Skip Monday if you want strong price action.
 
 ### 4. Who Trades Forex?
+  - Decentralized Market: The forex market has no central exchange; instead, it’s an over-the-counter (OTC) network of participants.
+  - Major Participants:
+  - Market Makers & Brokers
+  - 
 
 
 ### 5. Why Trade Forex?
